@@ -3,3 +3,4 @@ mobile
 tablet
 laptop
 phone
+camera
