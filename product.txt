@@ -2,3 +2,4 @@ product details
 mobile
 tablet
 laptop
+phone
