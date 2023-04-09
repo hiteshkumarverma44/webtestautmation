@@ -4,4 +4,6 @@ tablet
 laptop
 phone
 camera
+powerbank
 headphones
+
