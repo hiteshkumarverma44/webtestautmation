@@ -4,3 +4,4 @@ tablet
 laptop
 phone
 camera
+powerbank
